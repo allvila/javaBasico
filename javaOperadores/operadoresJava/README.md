@@ -49,3 +49,16 @@ ex:
          String resultado = a==b ?"verdadeiro" : "falso";
 
           System.out.println(resultado);
+
+#operadores relacionais 
+
+Os operadores relacionais avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerdsa é igual,  diferente, menor, menor ou igual, maior ou maior ou igual ao da direita,retornando um valor booleano como resultado. 
+
+== IGUAL A
+!= DIFERENTE
+> MAIOR QUE
+>= MAIOR OU IGUAL
+< MENOR 
+<= MENOR OU IGUAL 
+&& operador lógico E
+|| opperador lógico "ou"
