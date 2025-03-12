@@ -22,3 +22,21 @@ boolean = false ou true;
  porcetagem %
   OBS "CONCATENAÇÃO DE TEXTOS" 
         string nomeCompleto = "liguagem" + "java";
+
+Ternário
+
+é uma forma resumida para definir uma condição e escolher por um dentre dois valores. 
+Você deve pensar numa condição ternária como se fosse uma condição IF normal. 
+
+O operador ternário é representado pelos símbolos
+ ?:
+
+ <expressão condicional> ?
+ <caso condição seja true> :
+ <caso condição seja false>
+ exemplo:
+   if (a==b)
+         resultado = "verdadeiro";
+
+         else 
+         resultado = "falso";
